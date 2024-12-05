@@ -15,14 +15,22 @@ Fecha: 04-12-2024
 ORGANIZACIÓN DE LOS TEMAS:
 
 ARCHIVO "COMPUESTOS QUÍMICOS": Utilizando el compuesto Sulfato de Sodio (Na2SO
+<br>
 CÓDIGOS 
+<br>
 • Formación de un compuesto
+<br>
 • Masa molar
+<br>
 • Composición porcentual en masa
+<br>
 • Estequiometría
 
 ARCHIVO "REACCION QUÍMICA": Utilizando el compuesto Sulfato de Sodio (Na2SO4)
+<br>
 CÓDIGOS
+<br>
 • Formación de una reacción
+<br>
 • Balanceo de la ecuación
 
